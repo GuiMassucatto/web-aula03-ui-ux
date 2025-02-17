@@ -12,6 +12,8 @@ Renderizar em uma página HTML as informações de produtos em **cards**.
 - CSS
 - JavaScript (se necessário para a interação)
 
+---
+
 ### Como Rodar o Projeto
 
 1. Baixe ou clone o repositório.
